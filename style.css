@@ -21,16 +21,16 @@ h2 {
 
 header h2 {
     font-weight: 900;
-    color: rgb(125, 34, 125);
+    color: rgb(20, 203, 29);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .header-wrapper {
-    background-color: rgb(21, 169, 159);
+    background-color: rgb(115, 120, 120);
     color: floralwhite;
     display: flex;
     justify-content: center;
@@ -50,8 +50,8 @@ h3 {
     justify-content: space-around;
     color: black;
     align-items: center;
-    padding: 10px;
-    font-size: 20px;
+    padding: 15px;
+    font-size: 30px;
 }
 
 .caption {
